@@ -1,2 +1,2 @@
 print('Aprendiendo Git y Github')
-print('Mejorando el login')
+print('Sigo aprendiendo y mejorando cada día')
