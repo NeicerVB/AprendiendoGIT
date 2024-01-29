@@ -16,4 +16,4 @@ with open('./practica/test.txt', 'a+') as file:
 
 owner = 'neicer'
 entrepreneur = ('Toronto', 'NIVER', owner, 5)
-'neicer' in entrepreneur
+print('neicer' in entrepreneur)
