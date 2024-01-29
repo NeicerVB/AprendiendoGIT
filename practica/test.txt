@@ -1,6 +1,2 @@
-Aprendiendo
-a
-usar
-git
-y
-github
+Hola Python, aun te recuerdo
+Hola Python, aun te recuerdo
