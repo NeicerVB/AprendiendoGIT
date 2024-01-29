@@ -13,3 +13,7 @@ with open('./practica/test.txt', 'a+') as file:
     file.write('Hola Python, aun te recuerdo\n')
     file.seek(0)
     print(file.read())
+
+owner = 'neicer'
+entrepreneur = ('Toronto', 'NIVER', owner, 5)
+'neicer' in entrepreneur
