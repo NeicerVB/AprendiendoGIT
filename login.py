@@ -10,3 +10,4 @@ if nombre in listUsers:
   print('Welcome to NIVER')
 else:
   print('You don\'t belong to the service')
+  print('Please, Sign up')
